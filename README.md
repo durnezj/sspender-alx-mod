@@ -1,3 +1,6 @@
+# Forked version with support for calling custom suspend script that handles WOL capable suspending on ALX ethernet devices.
+
+
 # What is sspender?
 A couple of years ago, I buit a NAS / media / backup server to play with, which I didn't want to be ON all the time as it didn't do anything that required a 24/7 up time.
 
